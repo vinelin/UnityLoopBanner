@@ -1,0 +1,26 @@
+/.vs
+/.vscode
+.vs
+/Library
+/Temp
+/Logs
+/obj
+/iOS
+/Macos.app
+/docs
+/ProjectSettings/XRSettings.asset
+
+/Assets/TextMesh Pro
+/Assets/TextMesh Pro.meta
+
+*.sh
+
+*.sln
+*.csproj
+*.vcxproj.filters
+*.vcxproj.user
+*.pdb
+*.exp
+*.apk
+*.DS_Store
+*.cache
